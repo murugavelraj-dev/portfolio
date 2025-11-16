@@ -16,7 +16,7 @@ export default function Projects() {
               {p.tech.map((t) => <span key={t}>{t}</span>)}
             </div>
 
-            <a className="btn-small" href={p.link}>View Code</a>
+            <a className="btn-small" target = "_blank" href={p.link}>View Code</a>
           </div>
         ))}
       </div>
