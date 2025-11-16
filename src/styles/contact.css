@@ -1,0 +1,21 @@
+form {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  input, textarea {
+    padding: 12px;
+    background: #1c1c1c;
+    border: none;
+    color: white;
+    border-radius: 6px;
+  }
+  
+  textarea {
+    resize: none;
+    height: 150px;
+  }
+  

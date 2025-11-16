@@ -1,0 +1,27 @@
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+  }
+  
+  .skill-card {
+    background: #1c1c1c;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .skill-card:hover {
+    background: #262626;
+  }
+  
+  .skill-card span {
+    font-size: 35px;
+  }
+  
+
+  @media (max-width:575px){
+    .skills-grid {
+    grid-template-columns: repeat(1, 1fr);
+    }
+  }
