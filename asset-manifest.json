@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/murugavelraj-dev/portfolio.git/static/css/main.648c3a30.css",
+    "main.js": "/murugavelraj-dev/portfolio.git/static/js/main.b3689f4f.js",
+    "static/js/453.ececc0a5.chunk.js": "/murugavelraj-dev/portfolio.git/static/js/453.ececc0a5.chunk.js",
+    "static/media/profileimg.jpeg": "/murugavelraj-dev/portfolio.git/static/media/profileimg.f56efc9e64909a80cacd.jpeg",
+    "index.html": "/murugavelraj-dev/portfolio.git/index.html",
+    "main.648c3a30.css.map": "/murugavelraj-dev/portfolio.git/static/css/main.648c3a30.css.map",
+    "main.b3689f4f.js.map": "/murugavelraj-dev/portfolio.git/static/js/main.b3689f4f.js.map",
+    "453.ececc0a5.chunk.js.map": "/murugavelraj-dev/portfolio.git/static/js/453.ececc0a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648c3a30.css",
+    "static/js/main.b3689f4f.js"
+  ]
+}
